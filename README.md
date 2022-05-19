@@ -1,8 +1,8 @@
 # Product Card
 
-Welcome to the fancy Pixel Union Frontend Tech Interview!
+Welcome to the Knit Agency Frontend Tech Interview!
 
-The goal of these tech interviews is to get a feel for how you approach
+The goal of this tech interview is to get a feel for how you approach
 development, providing a platform to talk through common, day-to-day
 challenges and the technologies we use to solve them.
 
